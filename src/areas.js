@@ -1,9 +1,9 @@
 export default [
   { name: "KITCHEN", count: 5 },
-  { name: "LIVING ROOM 1", count: 3 },
+  { name: "TV ROOM AREA", count: 3 },
   { name: "KITCHEN WINDOW", count: 2 },
   { name: "BALCONY", count: 3 },
-  { name: "MARBLE STAIRS", count: 2 },
+  { name: "PANTRY STAIRS", count: 2 },
   { name: "MICROWAVE", count: 2 },
   { name: "WATER DISPENSER", count: 2 },
   { name: "KITCHEN SINK AND FLOOR", count: 3 },
