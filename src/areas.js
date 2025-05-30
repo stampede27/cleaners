@@ -13,6 +13,6 @@ export default [
   { name: "LAUNDRY AREA", count: 5 },
   { name: "BIG WINDOW", count: 2 },
   { name: "VACANT ROOM", count: 2 },
-  { name: "LIVING ROOM 2", count: 2 },
+  { name: "201 LIVING ROOM", count: 2 },
   { name: "SMOKING AREA", count: 2 }
 ];
